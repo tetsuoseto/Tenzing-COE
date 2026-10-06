@@ -1,0 +1,31 @@
+##########darkslategray
+
+
+![original_cover](images/Houghton_Hearn_92.40.10_-_Bushido_cover.jpg)
+##########darkslategray
+>PCWIDE  
+>PCCL BUSHIDO
+>PCCS L'ANIMA DEL GIAPPONE
+>PCWIDE  
+>PCCS BY
+>PCCS INAZO NITOBE, A.M., Ph.D.
+##########darkslategray
+>PCWIDE  
+>PCCS Edizione dell'autore
+>PCCS 13ª EDIZIONE RIVEDUTA E AMPLIATA
+>PCCS 1908
+>PCCS  
+>PCCS DICEMBRE, 1904
+##########
+>CM  
+>CM  
+>CM  
+>CM  
+>CS AL MIO AMATO ZIO
+>CS TOKITOSHI OTA
+>CS CHI MI HA INSEGNATO A VENERARE IL PASSATO
+>CS E
+>CS AMMIRARE LE IMPRESE DEI SAMURAI
+>CS DEDICO
+>CS QUESTO PICCOLO LIBRO
+
