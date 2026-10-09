@@ -32,7 +32,7 @@ proofreader_name_2 ( https://github.com/proofreader_name_2/ )
 
 ###@ PDF Creation
 Creation tool:
-[TENZING v5.3.0 20261002-223947 (darwin)](https://github.com/tetsuoseto/Tenzing-Release)
+[TENZING v5.3.0 20261009-090929 (linux)](https://github.com/tetsuoseto/Tenzing-Release)
 
 ###@ PDF Archive
 PDF license:
