@@ -1,7 +1,5 @@
-##########darkslategrey
+##########Houghton_Hearn_92.40.10_-_Bushido_cover.jpg
 
-
-![original_cover](images/Houghton_Hearn_92.40.10_-_Bushido_cover.jpg)
 ##########darkslategrey
 >PCWIDE  
 >PCCL BUSHIDO
